@@ -3,8 +3,8 @@
 
 <h2>Web Development Projects:</h2>
 
-- <b>[Data Structures and Algorithms Practice]()</b>
-- <b>[Full Stack Single page App (Next.js, PHP Laravel API, Mysql)]()</b>
+- <b>[PHP Laravle E-commerce Template Website]()</b>
+- <b>[Full Stack Single page App for an online Computer Components Store (Next.js, PHP Laravel API, Mysql)]()</b>
 
 <h2> 🤳 Connect with me:</h2>
 
