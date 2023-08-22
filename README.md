@@ -3,8 +3,8 @@
 
 <h2>Web Development Projects:</h2>
 
-- <b>[PHP Laravle E-commerce Template Website]()</b>
-- <b>[Full Stack Single page App for an online Computer Components Store (Next.js, PHP Laravel API, Mysql)]()</b>
+- <b>[PHP Laravle E-commerce Template Website](https://github.com/riad-999/riad-999/blob/main/projects/ecomm-demo.md)</b>
+- <b>[Full Stack Single page App for an online Computer Components Store (Next.js, PHP Laravel API, Mysql)](https://github.com/riad-999/riad-999/blob/main/projects/tech-store.md)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
