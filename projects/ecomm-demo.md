@@ -1,7 +1,7 @@
 <h1>PHP Laravle E-commerce Template Website</h1>
 
 <h2>Description</h2>
-The project consists of a template for an e-commerce website for general purposes with filtering features and an admin panel to manage the store. This was developed using the Laravel PHP framework. I didn't use any other framework aside from Tailwind CSS for styling.This project helped me gain a deeper knowledge of how websites work with the MVC software architecture that Laravel offers, get more used to the SQL language, and get more experience in Javascript and programming & software development overall.
+The project consists of a template for an e-commerce website for general purposes with filtering features and an admin panel to manage the store. This was developed using the Laravel PHP framework. I didn't use any other framework aside from Tailwind CSS for styling.This project helped me gain a deeper knowledge of how websites work with the MVC software architecture that Laravel offers, get more used to the SQL language, and get more experience in Javascript and programming / software development overall.
 <br />
 <br />
 <h2>Project</h2>
