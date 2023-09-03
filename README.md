@@ -1,12 +1,12 @@
 <h1>Hi, I'm Riad</h1>
 <h2>Networking Student, Programmer, Offensive Security Enthousiaste</h2>
-<h2>Experience : </h2>
+<!-- <h2>Experience : </h2>
  <h4>1 month internship: Active Directory Security </h4>
   <ul>
     <li>Set up a virtualized Active Directory home lab </li>
     <li>Simulate several common attacks to identify the vulnrablities </li>
     <li>Implement the Defenses and the metigations against the attacks</li>
-  </ul>
+  </ul> -->
 <h2>Personal Experience and Projects: </h2>
 <h3>Networking & Security:</h3>
 
