@@ -8,6 +8,11 @@
     <li>Implement the Defenses and the metigations against the attacks</li>
   </ul>
 <h2>Personal Experience and Projects: </h2>
+<h3>Cloud & Automation:</h3>
+
+- <b>[Emulating an IOT Network that is based on an SDN Network (ONOS + Mininet + Python)](https://github.com/riad-999/Mininet-SDN-IOT)</b>
+- <b>[prof of concept Ransomeware that encrypts the victim's files using multiple encryption keys (AES + RSA)](https://github.com/riad-999/File-Cryptography-Ransomware)</b>
+
 <h3>Networking & Security:</h3>
 
 - <b>[Emulating an IOT Network that is based on an SDN Network (ONOS + Mininet + Python)](https://github.com/riad-999/Mininet-SDN-IOT)</b>
