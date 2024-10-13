@@ -5,7 +5,7 @@
 
 - <b>[Terraform Deployment on AWS](https://github.com/riad-999/Terraform_deployment_on_aws)</b>
 - <b>[implementing a CICD pipeline using Jenkins, AWS ECR & ECS](https://github.com/riad-999/Jenkins-CICD-pipeline)</b>
-- <b>[Deploying a Multitier Web application on AWS Cloud using EC2, S3, Route53 & services](https://github.com/riad-999/vprofile-aws/blob/main/Readme.pdf)</b>
+<!-- - <b>[Deploying a Multitier Web application on AWS Cloud using EC2, S3, Route53 & services](https://github.com/riad-999/vprofile-aws/blob/main/Readme.pdf)</b> -->
 
 <h3>Networking & Security:</h3>
 
